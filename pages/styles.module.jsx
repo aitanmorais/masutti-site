@@ -1,10 +1,8 @@
 const styles = `
   .logo {
     display: inline-block;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-    margin-right: 10px;
+    height: 30px;
+    width: 250px;
   }
    body {
     margin: 0;
