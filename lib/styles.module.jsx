@@ -28,6 +28,8 @@ const styles = `
   .qr-code {
     display: block;
     margin-bottom: 30px;
+    height: 0 auto;
+    width: 0 auto;
   }
   .button {
     display: inline-block;
