@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div className="container">
-        <div className="C:\Users\aitan.farias\Documents\GitHub\assets\logo-masutti.svg"></div>
+        <div className="logo" src="C:\Users\aitan.farias\Documents\GitHub\assets\logo-masutti-branca.svg" alt="Logo Marca"></div>
         <h1>Lorem Ipsum</h1>
         <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
         <img className="qr-code" src="https://www.qr-code-generator.com/phpqrcode/getCode.php?cht=qr&chl=C:\Users\aitan.farias\Documents\GitHub\assets\masutti-politica-privacidade.pdf" alt="QR Code" />
