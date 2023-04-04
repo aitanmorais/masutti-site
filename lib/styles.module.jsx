@@ -7,8 +7,7 @@ const styles = `
    body {
     margin: 0;
     padding: 0;
-    font-family: 
-    BlinkMacSystemFont,
+    font-family: BlinkMacSystemFont,
     'Segoe UI',
     'Roboto',
     'Oxygen',
@@ -22,7 +21,7 @@ const styles = `
   h1 {
     display: inline-block;
     font-size: 36px;
-    font-weight: bold;
+    font-weight: normal;
     color: #fff;
     margin-top: 20;
     margin-bottom: 20px;
