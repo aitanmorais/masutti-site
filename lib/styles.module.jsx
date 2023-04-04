@@ -12,7 +12,7 @@ const styles = `
   }
   h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 36px;
     font-weight: bold;
     color: #fff;
     margin-top: 20;
