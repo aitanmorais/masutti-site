@@ -7,7 +7,16 @@ const styles = `
    body {
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: 
+    BlinkMacSystemFont,
+    'Segoe UI',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue', sans-serif;
     background-color: #125060;
   }
   h1 {
