@@ -1,7 +1,7 @@
 const styles = `
   .logo {
     display: inline-block;
-    height: 30px;
+    height: 50px;
     width: 250px;
   }
    body {
