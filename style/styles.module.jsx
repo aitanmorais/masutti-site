@@ -25,7 +25,7 @@ const styles = `
     font-size: 24px;
     font-weight: normal;
     color: #fff;
-    margin-top: 8px;
+    margin-top: 0 auto;
     margin-bottom: 16px;
   }
 
