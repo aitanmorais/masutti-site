@@ -5,6 +5,12 @@ const styles = `
     width: 250px;
   }
 
+  .imagem {
+    display: flex;
+    max-height: 50%;
+    max-width: 50%;
+  }
+
    body {
     margin: 0;
     padding: 0;
