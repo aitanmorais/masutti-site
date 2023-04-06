@@ -14,7 +14,7 @@ const styles = `
 
   h1 {
     display: inline-block;
-    font-size: 36px;
+    font-size: 32px;
     font-weight: normal;
     color: #fff;
     margin-top: 0 auto;
