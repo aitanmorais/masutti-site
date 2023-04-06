@@ -7,8 +7,8 @@ const styles = `
 
   .imagem {
     display: flex;
-    max-height: 50%;
-    max-width: 50%;
+    max-height: 30%;
+    max-width: 30%;
   }
 
    body {
@@ -41,7 +41,7 @@ const styles = `
     color: #fff;
     margin-top: 8px;
     margin-bottom: 8px;
-    text-align: left;
+    text-align: justify;
   }
 
   p {
@@ -50,7 +50,7 @@ const styles = `
     color: #fff;
     margin-top: 8px;
     margin-bottom: 8px;
-    text-align: left;
+    text-align: justify;
   }
 
   .qr-code {
@@ -80,7 +80,7 @@ const styles = `
       margin: 16px;
     }
     
-    @media (max-width: 780px) {
+    @media (max-width: 1560px) {
       .button-container {
         flex-wrap: wrap;
         justify-content: center;
