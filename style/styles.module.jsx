@@ -33,8 +33,17 @@ const styles = `
     font-size: 16px;
     font-weight: normal;
     color: #fff;
-    margin-top: 0 auto;
-    margin-bottom: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: left;
+  }
+
+  p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #fff;
+    margin-top: 8px;
+    margin-bottom: 8px;
     text-align: left;
   }
 
@@ -44,11 +53,12 @@ const styles = `
     height: 300px;
     width: 300px;
   }
+
     .button-container {
       display: flex;
       justify-content: space-between;
       width: 100%;
-      max-width: 560px;
+      max-width: 600px;
       margin-top: 16px;
       margin-bottom: 16px;
     }
@@ -69,7 +79,6 @@ const styles = `
         flex-wrap: wrap;
         justify-content: center;
       }
-    
       .button {
         margin: 16px;
       }
