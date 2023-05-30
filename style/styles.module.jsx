@@ -64,7 +64,7 @@ const styles = `
       display: flex;
       justify-content: space-between;
       width: 100%;
-      max-width: 600px;
+      max-width: 800px;
       margin-top: 16px;
       margin-bottom: 16px;
     }
